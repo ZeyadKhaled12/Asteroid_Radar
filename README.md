@@ -4,6 +4,9 @@ This folder should contain the scaffolded project files to get a student started
 
 ## Note: Android Kotlin Gradle Update
 Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
+
+path to api key
+Asteroid_Radar\app\src\main\java\com\udacity\asteroidradar\Constants.kt
 ```
 distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
 ```
